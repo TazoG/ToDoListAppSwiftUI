@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DABB3B252A3A13E9002D89B7 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DABB3B242A3A13E9002D89B7 /* TLButton.swift */; };
 		DAD444002A38D7EC004A0943 /* ToDoListAppSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD443FF2A38D7EC004A0943 /* ToDoListAppSwiftUIApp.swift */; };
 		DAD444022A38D7EC004A0943 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD444012A38D7EC004A0943 /* MainView.swift */; };
 		DAD444042A38D7F0004A0943 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAD444032A38D7F0004A0943 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DABB3B242A3A13E9002D89B7 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		DAD443FC2A38D7EC004A0943 /* ToDoListAppSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoListAppSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAD443FF2A38D7EC004A0943 /* ToDoListAppSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListAppSwiftUIApp.swift; sourceTree = "<group>"; };
 		DAD444012A38D7EC004A0943 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				DAD444222A38E17D004A0943 /* RegisterView.swift */,
 				DAD444242A38E192004A0943 /* ToDoListItemView.swift */,
 				DAD444382A38EA54004A0943 /* HeaderView.swift */,
+				DABB3B242A3A13E9002D89B7 /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				DAD4442B2A38E29D004A0943 /* MainViewViewModel.swift in Sources */,
 				DAD4441B2A38E137004A0943 /* ProfileView.swift in Sources */,
 				DAD444232A38E17D004A0943 /* RegisterView.swift in Sources */,
+				DABB3B252A3A13E9002D89B7 /* TLButton.swift in Sources */,
 				DAD4442D2A38E2A9004A0943 /* ProfileViewViewModel.swift in Sources */,
 				DAD4441D2A38E149004A0943 /* ToDoListView.swift in Sources */,
 				DAD444272A38E1EF004A0943 /* User.swift in Sources */,
