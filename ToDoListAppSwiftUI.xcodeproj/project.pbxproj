@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DABB3B252A3A13E9002D89B7 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DABB3B242A3A13E9002D89B7 /* TLButton.swift */; };
+		DABB3B272A3A4006002D89B7 /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DABB3B262A3A4006002D89B7 /* Extentions.swift */; };
 		DAD444002A38D7EC004A0943 /* ToDoListAppSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD443FF2A38D7EC004A0943 /* ToDoListAppSwiftUIApp.swift */; };
 		DAD444022A38D7EC004A0943 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD444012A38D7EC004A0943 /* MainView.swift */; };
 		DAD444042A38D7F0004A0943 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAD444032A38D7F0004A0943 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		DABB3B242A3A13E9002D89B7 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
+		DABB3B262A3A4006002D89B7 /* Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
 		DAD443FC2A38D7EC004A0943 /* ToDoListAppSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoListAppSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAD443FF2A38D7EC004A0943 /* ToDoListAppSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListAppSwiftUIApp.swift; sourceTree = "<group>"; };
 		DAD444012A38D7EC004A0943 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				DAD444032A38D7F0004A0943 /* Assets.xcassets */,
 				DAD443FF2A38D7EC004A0943 /* ToDoListAppSwiftUIApp.swift */,
 				DAD444142A38DCB9004A0943 /* GoogleService-Info.plist */,
+				DABB3B262A3A4006002D89B7 /* Extentions.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				DAD4441D2A38E149004A0943 /* ToDoListView.swift in Sources */,
 				DAD444272A38E1EF004A0943 /* User.swift in Sources */,
 				DAD444252A38E192004A0943 /* ToDoListItemView.swift in Sources */,
+				DABB3B272A3A4006002D89B7 /* Extentions.swift in Sources */,
 				DAD4442F2A38E2B9004A0943 /* ToDoListViewViewModel.swift in Sources */,
 				DAD444332A38E2D7004A0943 /* LoginViewViewModel.swift in Sources */,
 				DAD444002A38D7EC004A0943 /* ToDoListAppSwiftUIApp.swift in Sources */,
