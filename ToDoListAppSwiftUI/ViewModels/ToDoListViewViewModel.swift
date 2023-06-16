@@ -9,5 +9,7 @@ import Foundation
 
 ///viewModel for list of items view, primary view
 class ToDoListViewViewModel: ObservableObject {
+    @Published var showingNewItemView = false
+    
     init() {}
 }
