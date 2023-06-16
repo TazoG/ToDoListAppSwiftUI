@@ -133,10 +133,10 @@
 			children = (
 				DAD4442A2A38E29D004A0943 /* MainViewViewModel.swift */,
 				DAD4442C2A38E2A9004A0943 /* ProfileViewViewModel.swift */,
-				DAD4442E2A38E2B9004A0943 /* ToDoListViewViewModel.swift */,
 				DAD444302A38E2C8004A0943 /* NewItemViewViewModel.swift */,
 				DAD444322A38E2D7004A0943 /* LoginViewViewModel.swift */,
 				DAD444342A38E2E6004A0943 /* RegisterViewViewModel.swift */,
+				DAD4442E2A38E2B9004A0943 /* ToDoListViewViewModel.swift */,
 				DAD444362A38E2FD004A0943 /* ToDoListItemViewViewModel.swift */,
 			);
 			path = ViewModels;
