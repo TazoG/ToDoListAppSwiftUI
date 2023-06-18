@@ -16,7 +16,7 @@ struct RegisterView: View {
             HeaderView(title: "Register",
                        subtitle: "Start organizing todos",
                        angle: -15,
-                       background: .orange)
+                       background: .green)
             
             Form {
                 TextField("Full Name", text: $viewModel.name)
