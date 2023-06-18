@@ -28,6 +28,7 @@ struct ToDoListView: View {
                             }
                             .tint(Color.red)
                         }
+                        .padding(.all, 0.3)
                 }
                 .listStyle(PlainListStyle())
             }
